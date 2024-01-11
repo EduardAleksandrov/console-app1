@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\Eduard\Desktop\Projects\my\lang\C#\ConsoleApp1\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\Eduard\Desktop\Projects\my\lang\C#\ConsoleApp1\.editorconfig" />
+  </ItemGroup>
+
 </Project>
