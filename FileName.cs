@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class FileName
+    public class FileName
     {
-
+        public void Hi() 
+        {
+            Console.WriteLine("Hello, from filename!");
+        }
     }
 }
